@@ -1,6 +1,6 @@
 ![](typing.gif)
 
-## UWC ISAK COMPUTER SCIENCE 2021
+# UWC ISAK Computer Science 2021
 Welcome! 
 
 Computer Science is an experimental science. From the early days with analog computers breaking war codes [(A.M. Turing)](https://fermatslibrary.com/s/intelligent-machinery-a-heretical-theory) to the modern times with virtual/augmented reality [(Hidden Creative 2010)](https://www.youtube.com/watch?v=tnRJaHZH9lo), cryptocurrencies [(VICE 2019)](https://www.youtube.com/watch?v=u-vrdPtZVXc&t=252s), machine learning [(Science Time 2020)](https://www.youtube.com/watch?v=NjVIQUE8Sgk) or artificial intelligence [(WSJ 2019)](https://www.youtube.com/watch?v=JMLsHI8aV0g) [(DW 2020)](https://www.youtube.com/watch?v=-ePZ7OdY-Dw), Computer Science has been at the forefront of technological innovation transforming our lives. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
@@ -35,7 +35,7 @@ To succeed in this course you should:
 3. Practice your Computational Thinking Skills by solving the programming challenges. Go beyond the exercises assigned and develop mastery.
 4. Complete the assignments and deadlines.
 
-## 2. The Syllabus
+# 2. The Syllabus
 
 SL/HL core
 The topics that must be studied, including some practical work, are:
@@ -64,7 +64,7 @@ The topics that must be studied, including some practical work, are:
 
 [See more](syllabus.md).
 
-## 3. The Assessment
+# 3. The Assessment
 
 The assessment of the IB Computer Science course is detailed in **Table 1**. In our classroom we will use the rubric for CS IA (**Table 2**) to assess the projects proposed for each unit during the year. In addition we will have a combination of ①　mock papers, ②　quizzes, and ③　programming assignments to obtain a proper sample of your growth. The Predicted Grade (PG) is derived from all these components. 
 
@@ -101,7 +101,7 @@ The Internal Assessment (IA) is your opportunity of developing a software applic
 
 You will get use to read this rubric as we will be using it constantly for the projects explored in every Unit. See the detailed description of the [rubric for the IA here](IArubric.pdf)
 
-## 4. 🔥 Tools we will use
+# 4. 🔥 Tools we will use
 
 ![](jetbrains.png)
 
@@ -109,7 +109,7 @@ We will use the Integrated Development Editors (IDE) from JetBrains. These are p
 
 1. [Pycharm Edu](https://www.jetbrains.com/pycharm-edu/): Editor for Python
 1. [WebStorm](https://www.jetbrains.com/webstorm/): Editor for Web Development
-1. [Intelli J IDEA](https://www.jetbrains.com/idea-edu/): Editor for Java 
+2. [Google Colaboratory](https://www.colab.research.google.com): Online Google drive for Coding
 
 Procedure to install these tools:
 
@@ -123,7 +123,7 @@ Procedure to install these tools:
 
 **Note**If you are using a school's laptop, you will have to find Rie-san in the IT office and ask her to create the "TEST account for Dr. Ruben". Then, I can authorise the installation.
 
-### GitHub
+## GitHub
 ![](github.gif)
 
 The other tool we will use all the time is [GitHub](github.com). GitHub is a professional drive online that software developers use to store their code and collaborate with their teams.
@@ -134,14 +134,14 @@ The other tool we will use all the time is [GitHub](github.com). GitHub is a pro
 1. Send me a **nice** email with the link to your repository.
 ![](linkRepo.png)
 
-### Snakify
+## Snakify
 [Snakify](https://snakify.org/en/) is an excellent tool online where you can develop your programming skills. In the length of G11 you will solve about 200 programming exercises on this website. I will be able to track your progress and give your feedback in this website.
 
 1. Create a free account as a Student.
 1. Add me as a teacher with the email address: ruben.pinzon@uwcisak.jp
 
 
-## 5. Resources
+# 5. Resources
 
 Here are some existing websites related to IB DP Computer Science that will help you navigating the syllabus. They are a gold mine.
 
@@ -149,7 +149,7 @@ Here are some existing websites related to IB DP Computer Science that will help
 1. [Computer Science Wiki by Bill MacKenty, American School of Warsaw](https://computersciencewiki.org/index.php/Welcome)
 1. [Wiki books by several author](https://en.wikibooks.org/wiki/IB/Group_4/Computer_Science)
 
-## 6. Why studying CS?
+# 6. Why studying CS?
 
 Inspiring and successful Computer Scientist tell us why learning CS is important:
 
