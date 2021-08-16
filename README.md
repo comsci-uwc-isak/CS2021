@@ -87,7 +87,7 @@ Paper 2 is the option from the syllabus among:
 * Option C: Web science
 * Option D: Object-oriented programming (OOP)
 
-[See here un specimen of these three papers.](specimenPapers.pdf)
+[See one example of a past paper here.](specimenPapers.pdf)
 
 The Internal Assessment (IA) is your opportunity of developing a software application for a real client on a topic of your interest. The rubric for this component (**Table 2**) includes 5 parts:
 
