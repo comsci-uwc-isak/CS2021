@@ -35,7 +35,7 @@ To succeed in this course you should:
 3. Practice your Computational Thinking Skills by solving the programming challenges. Go beyond the exercises assigned and develop mastery.
 4. Complete the assignments and deadlines.
 
-# 2. The Syllabus
+# 2. 📚The Syllabus
 
 SL/HL core
 The topics that must be studied, including some practical work, are:
@@ -64,7 +64,7 @@ The topics that must be studied, including some practical work, are:
 
 [See more](syllabus.md).
 
-# 3. The Assessment
+# 3. 💪 The Assessment
 
 The assessment of the IB Computer Science course is detailed in **Table 1**. In our classroom we will use the rubric for CS IA (**Table 2**) to assess the projects proposed for each unit during the year. In addition we will have a combination of ①　mock papers, ②　quizzes, and ③　programming assignments to obtain a proper sample of your growth. The Predicted Grade (PG) is derived from all these components. 
 
@@ -141,7 +141,7 @@ The other tool we will use all the time is [GitHub](github.com). GitHub is a pro
 1. Add me as a teacher with the email address: ruben.pinzon@uwcisak.jp
 
 
-# 5. Resources
+# 5.🧐 Resources
 
 Here are some existing websites related to IB DP Computer Science that will help you navigating the syllabus. They are a gold mine.
 
