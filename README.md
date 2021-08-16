@@ -21,13 +21,14 @@ Last year in G11 we explored three different projects including the creation of 
 1. Uni 1: A car rental application in BASH programming. [Github repository by Lauricenia Buque](https://github.com/comsci-uwc-isak/unit-1-project-Lauricenia)
 ![](lauricenia.png)
 
-## 1. 🔥 How to succeed in this course
-![](https://github.com/drPinzonISAK/CS2020/blob/master/successImage.jpg)
+# 1. 🔥 How to succeed in this course
+![](https://github.com/drPinzonISAK/CS2020/blob/master/study.gif)
 To succeed in this course you should:
 
-1. Routinely read the material before class. This will allow you to ask questions and participate.
-1. Practice your Computational Thinking Skills by solving the programming challenges. Go beyond the exercises assigned and develop mastery.
-1. Complete the assignments and deadlines.
+1. Routinely read the material before class. This will allow you to ask questions and participate. Here are the lesson notes for Units 1-5
+* Unit 1: 
+3. Practice your Computational Thinking Skills by solving the programming challenges. Go beyond the exercises assigned and develop mastery.
+4. Complete the assignments and deadlines.
 
 ## 2. The Syllabus
 
